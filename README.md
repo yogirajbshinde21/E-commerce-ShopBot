@@ -83,7 +83,21 @@ src/
 
 ## 📸 Screenshots
 
-> Screenshots of each screen should be added here for submission.
+1. Login page:
+![alt text](screenshots/image.png)
+
+
+2. Chat screen:
+![alt text](screenshots/image-1.png)
+
+
+3. Order summary page:
+![alt text](screenshots/image-2.png)
+
+
+4. Delivery tracking page:
+![alt text](screenshots/image-3.png)
+
 
 ## 🌟 Features
 
